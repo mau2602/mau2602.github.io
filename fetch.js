@@ -6,4 +6,4 @@ console.log(data);
 
 }
 
-getMoto();
+console.log(getMoto());
